@@ -14,4 +14,9 @@
 - [npm常用命令](https://github.com/Vibing/blog/issues/4)
 
 
+### Mysql
+
+- [Mysql常用命令](https://github.com/Vibing/blog/issues/6)
+
+
 
