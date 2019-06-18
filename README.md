@@ -19,6 +19,7 @@
 
 ## 其他
 - [前端也要学Docker啊！](https://github.com/Vibing/blog/issues/8)
+- [使用Docker部署Node应用](https://github.com/Vibing/blog/issues/9)
 
 
 
