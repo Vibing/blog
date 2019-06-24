@@ -6,7 +6,7 @@
 - JavaScript常用设计模式之观察者模式(发布订阅)
 
 ## ES6
-- [var、let与const]()
+- var、let与const
 
 ## React
 - [谈谈代码拆分，聊聊基于路由拆分 VS 基于组件拆分](https://github.com/Vibing/blog/issues/5)
