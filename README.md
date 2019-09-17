@@ -21,13 +21,24 @@
 - [koa+jwt实现token验证与刷新](https://github.com/Vibing/blog/issues/7)
 - 使用koa上传大型文件
 
+## Mysql
+- Mysql入门第一课《建表、改表、删表》
+- Mysql入门第二课《数据类型》
+- Mysql入门第三课《数据的增删改》
+- Mysql入门第四课《查询数据》
+- Mysql入门第五课《外键》
+- Mysql入门第六课《一对一》
+- Mysql入门第七课《一对多》
+- Mysql入门第八课《多对多》
+- Mysql入门第九课《Mysql WHERE 子句》
+- Mysql入门第十课《Mysql LIKE 子句》
+- Mysql入门第十一课《MySQL UNION 操作符》
+- ......
+- [Mysql常用命令](https://github.com/Vibing/blog/issues/6)
+
 
 ## NPM
 - [npm常用命令](https://github.com/Vibing/blog/issues/4)
-
-
-## Mysql
-- [Mysql常用命令](https://github.com/Vibing/blog/issues/6)
 
 ## Docker
 - [前端也要学Docker啊！](https://github.com/Vibing/blog/issues/8)
