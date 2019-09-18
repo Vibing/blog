@@ -23,7 +23,7 @@
 - 使用koa上传大型文件
 
 ## Mysql
-- Mysql入门第一课《建表、改表、删表》
+- [Mysql入门第一课《建表、改表、删表》](https://github.com/Vibing/blog/issues/14)
 - Mysql入门第二课《数据类型》
 - Mysql入门第三课《数据的增删改》
 - Mysql入门第四课《查询数据》
