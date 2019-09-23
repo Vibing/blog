@@ -26,7 +26,7 @@
 - [Mysql入门第一课《建表、改表、删表》](https://github.com/Vibing/blog/issues/14)
 - [Mysql入门第二课《数据类型》](https://github.com/Vibing/blog/issues/15)
 - [Mysql入门第三课《数据的增删改》](https://github.com/Vibing/blog/issues/16)
-- Mysql入门第四课《查询数据》
+- [Mysql入门第四课《查询数据》](https://github.com/Vibing/blog/issues/17)
 - Mysql入门第五课《外键》
 - Mysql入门第六课《一对一》
 - Mysql入门第七课《一对多》
