@@ -28,7 +28,7 @@
 - [Mysql入门第三课《数据的增删改》](https://github.com/Vibing/blog/issues/16)
 - [Mysql入门第四课《查询数据》](https://github.com/Vibing/blog/issues/17)
 - [Mysql入门第五课《外键约束》](https://github.com/Vibing/blog/issues/18)
-- Mysql入门第六课《一对一》
+- [Mysql入门第六课《一对一》](https://github.com/Vibing/blog/issues/19)
 - Mysql入门第七课《一对多》
 - Mysql入门第八课《多对多》
 - Mysql入门第九课《Mysql WHERE 子句》
