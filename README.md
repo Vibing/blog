@@ -6,6 +6,7 @@
 - JavaScript常用设计模式之观察者模式(发布订阅）
 - [web worker的使用](https://github.com/Vibing/blog/issues/21)
 - [时间分片(Time Slicing)](https://github.com/Vibing/blog/issues/22)
+- Event Loop (事件循环)
 
 ## ES6
 - var、let与const
@@ -24,6 +25,7 @@
 - [学Node必须掌握的Buffer和Stream](https://github.com/Vibing/blog/issues/11)
 - [koa+jwt实现token验证与刷新](https://github.com/Vibing/blog/issues/7)
 - 使用koa上传大型文件
+- NodeJs 中的 Event Loop
 
 ## Mysql
 - [Mysql入门第一课《建表、改表、删表》](https://github.com/Vibing/blog/issues/14)
