@@ -26,7 +26,11 @@
 - [学Node必须掌握的Buffer和Stream](https://github.com/Vibing/blog/issues/11)
 - [koa+jwt实现token验证与刷新](https://github.com/Vibing/blog/issues/7)
 - 使用koa上传大型文件
-- NodeJs 中的 Event Loop
+- 事件循环：了解NodeJs中的非阻塞I/O的核心概念
+- global 和 process 
+- 事件发射器：Event Emitters
+- 流和缓冲区：Stream和 Buffer处理数据的有效方法
+- Nodejs中的集群
 
 ## Mysql
 - [Mysql入门第一课《建表、改表、删表》](https://github.com/Vibing/blog/issues/14)
