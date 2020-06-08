@@ -7,6 +7,7 @@
 - [web worker的使用](https://github.com/Vibing/blog/issues/21)
 - [时间分片(Time Slicing)](https://github.com/Vibing/blog/issues/22)
 - Event Loop (事件循环)
+- IntersectionObserver API 使用
 
 ## ES6
 - var、let与const
