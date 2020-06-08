@@ -48,7 +48,9 @@
 
 ## NPM
 - [npm常用命令](https://github.com/Vibing/blog/issues/4)
-- [好用的npm包：webpack-oss-upload-plugin](https://github.com/Vibing/blog/issues/4)
+
+## Webpack
+- [好用的webpack插件：webpack-oss-upload-plugin](https://github.com/Vibing/blog/issues/25)
 
 ## Docker
 - [前端也要学Docker啊！](https://github.com/Vibing/blog/issues/8)
