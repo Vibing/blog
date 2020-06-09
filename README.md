@@ -54,7 +54,7 @@
 - [好用的webpack插件：webpack-oss-upload-plugin](https://github.com/Vibing/blog/issues/25)
 
 ## Docker
-- [前端也要学Docker啊！](https://github.com/Vibing/blog/issues/8)
+- [前端学Docker](https://github.com/Vibing/blog/issues/8)
 - [Docker简单实操](https://github.com/Vibing/blog/issues/24)
 - [使用Docker部署Node应用](https://github.com/Vibing/blog/issues/9)
 
