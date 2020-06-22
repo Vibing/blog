@@ -2,6 +2,7 @@
 ### 记录学习、工作中所闻所见所想🚀
 
 ## JavaScript
+- [Object.defineProperty 与 Proxy](https://github.com/Vibing/blog/issues/26)
 - [JavaScript常用设计模式之单例模式](https://github.com/Vibing/blog/issues/12)
 - JavaScript常用设计模式之观察者模式(发布订阅）
 - [web worker的使用](https://github.com/Vibing/blog/issues/21)
