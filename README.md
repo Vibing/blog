@@ -20,6 +20,7 @@
 - [React优化：竭尽全力的减少render渲染](https://github.com/Vibing/blog/issues/3)
 - [React和Immutable天生的一对](https://github.com/Vibing/blog/issues/2)
 - [理解JSX和虚拟DOM](https://github.com/Vibing/blog/issues/1)
+- [React Hooks优化](https://github.com/Vibing/blog/issues/27)
 
 
 ## Nodejs
