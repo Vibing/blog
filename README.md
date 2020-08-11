@@ -7,6 +7,7 @@
 - JavaScript常用设计模式之观察者模式(发布订阅）
 - [web worker的使用](https://github.com/Vibing/blog/issues/21)
 - [时间分片(Time Slicing)](https://github.com/Vibing/blog/issues/22)
+- [JavaScript的内存模型](https://github.com/Vibing/blog/issues/28)
 - Event Loop (事件循环)
 - IntersectionObserver API 使用
 
