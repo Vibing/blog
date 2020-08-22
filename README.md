@@ -1,13 +1,17 @@
 
 ### 记录学习、工作中所闻所见所想🚀
 
+## 最新文章
+- [React Hooks Immutable](https://github.com/Vibing/blog/issues/29)
+- [JavaScript的内存模型](https://github.com/Vibing/blog/issues/28)
+
 ## JavaScript
+- [JavaScript的内存模型](https://github.com/Vibing/blog/issues/28)
 - [Object.defineProperty 与 Proxy](https://github.com/Vibing/blog/issues/26)
 - [JavaScript常用设计模式之单例模式](https://github.com/Vibing/blog/issues/12)
 - JavaScript常用设计模式之观察者模式(发布订阅）
 - [web worker的使用](https://github.com/Vibing/blog/issues/21)
 - [时间分片(Time Slicing)](https://github.com/Vibing/blog/issues/22)
-- [JavaScript的内存模型](https://github.com/Vibing/blog/issues/28)
 - Event Loop (事件循环)
 - IntersectionObserver API 使用
 
@@ -15,6 +19,7 @@
 - var、let与const
 
 ## React
+- [React Hooks Immutable](https://github.com/Vibing/blog/issues/29)
 - [微前端(singleSpa + React )试玩](https://github.com/Vibing/blog/issues/20)
 - [React中的事件函数为什么要bind this](https://github.com/Vibing/blog/issues/13)
 - [谈谈代码拆分，聊聊基于路由拆分 VS 基于组件拆分](https://github.com/Vibing/blog/issues/5)
