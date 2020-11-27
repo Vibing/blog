@@ -2,6 +2,7 @@
 ### 记录学习、工作中所闻所见所想🚀
 
 ## 最新文章
+- [jenkins自动构建部署](https://github.com/Vibing/blog/issues/30)
 - [React Hooks Immutable](https://github.com/Vibing/blog/issues/29)
 - [JavaScript的内存模型](https://github.com/Vibing/blog/issues/28)
 
