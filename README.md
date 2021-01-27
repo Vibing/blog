@@ -2,7 +2,7 @@
 ### 记录学习、工作中所闻所见所想🚀
 
 ## 最新文章
-- [git ssh秘钥](https://github.com/Vibing/blog/issues/31)
+- [@babel/preset-env与@babel/plugin-transform-runtime](https://github.com/Vibing/blog/issues/32)
 - [jenkins自动构建部署](https://github.com/Vibing/blog/issues/30)
 - [React Hooks Immutable](https://github.com/Vibing/blog/issues/29)
 - [JavaScript的内存模型](https://github.com/Vibing/blog/issues/28)
@@ -62,6 +62,7 @@
 
 ## Webpack
 - [好用的webpack插件：webpack-oss-upload-plugin](https://github.com/Vibing/blog/issues/25)
+- [@babel/preset-env与@babel/plugin-transform-runtime](https://github.com/Vibing/blog/issues/32)
 
 ## Docker
 - [jenkins自动构建部署](https://github.com/Vibing/blog/issues/30)
