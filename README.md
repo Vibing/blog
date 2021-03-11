@@ -2,6 +2,7 @@
 ### 记录学习、工作中所闻所见所想🚀
 
 ## 最新文章
+- [ES6设计模式](https://github.com/Vibing/blog/issues/33)
 - [@babel/preset-env与@babel/plugin-transform-runtime](https://github.com/Vibing/blog/issues/32)
 - [jenkins自动构建部署](https://github.com/Vibing/blog/issues/30)
 - [React Hooks Immutable](https://github.com/Vibing/blog/issues/29)
@@ -19,6 +20,9 @@
 
 ## ES6
 - var、let与const
+
+## 设计模式
+- [ES6设计模式](https://github.com/Vibing/blog/issues/33)
 
 ## React
 - [React Hooks Immutable](https://github.com/Vibing/blog/issues/29)
