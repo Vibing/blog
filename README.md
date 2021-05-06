@@ -47,8 +47,8 @@
 - Nodejs中的集群
 
 ## Nestjs
-- 模块
-- 身份验证
+- [模块](https://github.com/Vibing/blog/issues/34)
+- [身份验证](https://github.com/Vibing/blog/issues/35)
 
 ## Mysql
 - [Mysql入门第一课《建表、改表、删表》](https://github.com/Vibing/blog/issues/14)
