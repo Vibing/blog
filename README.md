@@ -11,18 +11,17 @@
 ## JavaScript
 - [JavaScript的内存模型](https://github.com/Vibing/blog/issues/28)
 - [Object.defineProperty 与 Proxy](https://github.com/Vibing/blog/issues/26)
-- [JavaScript常用设计模式之单例模式](https://github.com/Vibing/blog/issues/12)
-- JavaScript常用设计模式之观察者模式(发布订阅）
 - [web worker的使用](https://github.com/Vibing/blog/issues/21)
 - [时间分片(Time Slicing)](https://github.com/Vibing/blog/issues/22)
 - Event Loop (事件循环)
 - IntersectionObserver API 使用
 
-## ES6
-- var、let与const
-
 ## 设计模式
-- [ES6设计模式](https://github.com/Vibing/blog/issues/33)
+- [单例模式](https://github.com/Vibing/blog/issues/12)
+- 观察者模式(发布订阅）
+- 策略模式
+- 状态模式
+- 责任链模式
 
 ## React
 - [React Hooks Immutable](https://github.com/Vibing/blog/issues/29)
