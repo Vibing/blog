@@ -46,6 +46,10 @@
 - 流和缓冲区：Stream和 Buffer处理数据的有效方法
 - Nodejs中的集群
 
+## Nestjs
+- 模块
+- 身份验证
+
 ## Mysql
 - [Mysql入门第一课《建表、改表、删表》](https://github.com/Vibing/blog/issues/14)
 - [Mysql入门第二课《数据类型》](https://github.com/Vibing/blog/issues/15)
