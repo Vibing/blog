@@ -2,6 +2,11 @@
 ### 记录学习、工作中所闻所见所想🚀
 
 ## 最新文章
+- [观察者模式(发布订阅）](https://github.com/Vibing/blog/issues/36)
+- [策略模式](https://github.com/Vibing/blog/issues/37)
+- [状态模式](https://github.com/Vibing/blog/issues/38)
+- [nestjs模块](https://github.com/Vibing/blog/issues/34)
+- [nestjs身份验证](https://github.com/Vibing/blog/issues/35)
 - [ES6设计模式](https://github.com/Vibing/blog/issues/33)
 - [@babel/preset-env与@babel/plugin-transform-runtime](https://github.com/Vibing/blog/issues/32)
 - [jenkins自动构建部署](https://github.com/Vibing/blog/issues/30)
@@ -18,9 +23,9 @@
 
 ## 设计模式
 - [单例模式](https://github.com/Vibing/blog/issues/12)
-- 观察者模式(发布订阅）
-- 策略模式
-- 状态模式
+- [观察者模式(发布订阅）](https://github.com/Vibing/blog/issues/36)
+- [策略模式](https://github.com/Vibing/blog/issues/37)
+- [状态模式](https://github.com/Vibing/blog/issues/38)
 - 责任链模式
 
 ## React
