@@ -2,6 +2,7 @@
 ### 记录学习、工作中所闻所见所想🚀
 
 ## 最新文章
+- [RPC入门理解](https://github.com/Vibing/blog/issues/39)
 - [观察者模式(发布订阅）](https://github.com/Vibing/blog/issues/36)
 - [策略模式](https://github.com/Vibing/blog/issues/37)
 - [状态模式](https://github.com/Vibing/blog/issues/38)
@@ -50,6 +51,9 @@
 - 事件发射器：Event Emitters
 - 流和缓冲区：Stream和 Buffer处理数据的有效方法
 - Nodejs中的集群
+
+## RPC
+- [RPC入门理解](https://github.com/Vibing/blog/issues/39)
 
 ## Nestjs
 - [模块](https://github.com/Vibing/blog/issues/34)
