@@ -3,6 +3,7 @@
 
 ## 最新文章
 - [RPC入门理解](https://github.com/Vibing/blog/issues/39)
+- [gRPC的简单使用](https://github.com/Vibing/blog/issues/40)
 - [观察者模式(发布订阅）](https://github.com/Vibing/blog/issues/36)
 - [策略模式](https://github.com/Vibing/blog/issues/37)
 - [状态模式](https://github.com/Vibing/blog/issues/38)
@@ -54,6 +55,7 @@
 
 ## RPC
 - [RPC入门理解](https://github.com/Vibing/blog/issues/39)
+- [gRPC的简单使用](https://github.com/Vibing/blog/issues/40)
 
 ## Nestjs
 - [模块](https://github.com/Vibing/blog/issues/34)
