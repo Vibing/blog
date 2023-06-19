@@ -40,6 +40,15 @@
 - [理解JSX和虚拟DOM](https://github.com/Vibing/blog/issues/1)
 - [React Hooks优化](https://github.com/Vibing/blog/issues/27)
 
+## Angular
+- 了解透彻什么是模块(NgModule)
+- Angular项目过大？合理拆分它！
+- 如何按需加载模块并使用组件？（非路由方式的按需加载）
+- Angular 14+ 的独立组件有多好用
+- Angular 16 Signals
+- 使用 Service 做状态管理
+- Angular实战中非常使用的代码
+
 
 ## Nodejs
 - [Nodejs文件上传、监听上传进度](https://github.com/Vibing/blog/issues/23)
